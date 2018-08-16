@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class IndexExample {
 
     /**
-     * This is just to show thar it's possible to refer array element by index right after
+     * This is just to show that it's possible to refer array element by index right after
      * calling {@Link String} method.
      * And the same, but using parallel stream.
     */
