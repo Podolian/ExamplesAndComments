@@ -14,7 +14,7 @@ public class IndexExample {
     }
 
     public static void main(String[] args) {
-        String numeros = "uno dos tres";
+        String numeros = "uno dos tres quatro cinco";
 
         for(int i = 0; i<3; i++){
             System.out.println(partOfStringByIndex(i, numeros));
