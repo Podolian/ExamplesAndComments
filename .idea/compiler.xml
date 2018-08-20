@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="arrayindex" />
+        <module name="SreamAPI" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="arrayindex" target="1.10" />
       <module name="ExamplesAndComments" target="1.10" />
+      <module name="SreamAPI" target="1.10" />
     </bytecodeTargetLevel>
   </component>
 </project>

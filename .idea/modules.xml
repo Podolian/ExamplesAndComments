@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ExamplesAndComments.iml" filepath="$PROJECT_DIR$/.idea/ExamplesAndComments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SreamAPI/SreamAPI.iml" filepath="$PROJECT_DIR$/SreamAPI/SreamAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/array-index/arrayindex.iml" filepath="$PROJECT_DIR$/array-index/arrayindex.iml" />
     </modules>
   </component>
