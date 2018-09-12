@@ -10,3 +10,6 @@ SreamAPI/target/
 array-index/src/main/resources/
 array-index/src/test/
 array-index/target/
+.idea
+**/*.iml
+**/target
