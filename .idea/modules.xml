@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ForFun/ForFun.iml" filepath="$PROJECT_DIR$/ForFun/ForFun.iml" />
       <module fileurl="file://$PROJECT_DIR$/SreamAPI/SreamAPI.iml" filepath="$PROJECT_DIR$/SreamAPI/SreamAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/array-index/arrayindex.iml" filepath="$PROJECT_DIR$/array-index/arrayindex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns/design-patterns.iml" filepath="$PROJECT_DIR$/design-patterns/design-patterns.iml" />
     </modules>
   </component>
 </project>
